@@ -1,0 +1,70 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.wrapp {
+  width: 100%;
+  height: 600px;
+}
+
+.in {
+  display: inline;
+}
+.form {
+  width: 70%;
+  float: left;
+  padding: 10px;
+}
+
+.lista {
+  width: 30%;
+  float: left;
+  padding: 10px;
+}
+#display {
+  height: 300px;
+  background-color: white;
+  border-radius: 5px;
+  background-color: grey;
+  padding: 10px;
+
+}
+#pv {
+  margin-left: 40%;
+}
+
+#chart {
+  height: 50px;
+  width: 800px;
+  border: 1px grey;
+  margin: 0 auto;
+  background-color: lightblue;
+}
+
+#wrapp2 {
+  margin: 100px auto;
+  width: 1000px;
+  height: 100px;
+
+}
+
+#ut {
+  margin-left: 100px;
+  font-size: 20px;
+  padding: 5px 0;
+  color: blue;
+}
+
+#proc {
+  height: 50px;
+  width: 0px;
+  background-color: blue;
+}
+
+#serS {
+  max-height: 300px;
+  overflow-y: scroll;
+  z-index: +2;
+
+}
